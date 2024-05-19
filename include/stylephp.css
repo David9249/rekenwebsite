@@ -1,0 +1,15 @@
+.collapse .navbar-collapse{
+    color: black;
+}
+
+.nav-link:hover{
+    color:yellow;
+    transition: 0.7s;
+    
+}
+.foto{
+    width: 2%;
+    height: 2%;
+}
+
+
