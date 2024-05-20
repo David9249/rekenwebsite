@@ -10,7 +10,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <a class="nav-link " aria-current="page" href="../HomePagina/index.php">Home</a>
+                <a class="nav-link " aria-current="page" href="../index.php">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="../tafelsoefenen/index.php">Tafels Oefenen</a>
