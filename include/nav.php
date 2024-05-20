@@ -10,10 +10,7 @@
           <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav">
               <li class="nav-item">
-                <!-- <a class="nav-link " aria-current="page" href="HomePage.html">Home</a> -->
-              </li>
-              <li class="nav-item">
-                <a class="nav-link" href="http://localhost/RekenWebwite/sudoku/index.php">Sudoku</a>
+                <a class="nav-link " aria-current="page" href="http://localhost/RekenWebwite/HomePagina/Home.php">Home</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="http://localhost/RekenWebwite/tafelsoefenen/index.php">Tafels Oefenen</a>
@@ -23,6 +20,9 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="http://localhost/RekenWebwite/Som_Som_Magie/index.php" >Som-Som Magie</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="http://localhost/RekenWebwite/sudoku/index.php">Sudoku</a>
               </li>
             </ul>
           </div>
