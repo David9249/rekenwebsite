@@ -16,13 +16,13 @@
                 <a class="nav-link" href="../tafelsoefenen/index.php">Tafels Oefenen</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="../Tafels/index.php">Tafels</a>
+                <a class="nav-link" href="../tafels/index.php">Tafels</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="../Som_Som_Magie/index.php" >Som-Som Magie</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="../sudoku/index.php">Sudoku</a>
+                <a class="nav-link" href="../Sudoku/index.php">Sudoku</a>
               </li>
             </ul>
           </div>
