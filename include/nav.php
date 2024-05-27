@@ -24,6 +24,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="../Sudoku/index.php">Sudoku</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="../eenheden_OmrekenTool">eenheden_OmrekenTool</a>
+              </li>
             </ul>
           </div>
         </div>

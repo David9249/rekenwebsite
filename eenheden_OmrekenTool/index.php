@@ -9,6 +9,10 @@
   <body>
     <!-- hier komt mijn code -->
     <!-- eerst mijn grid opmaken -->
+    <?php   
+    // include '../include/nav.php';
+     include '../include/nav.php';
+    ?>
 <div class="container mt-5">
     <div class="row">
         <div class="col-3"></div>
