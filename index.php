@@ -18,9 +18,9 @@
 
 
 
-      
-      <img class="PIC" src="IMAGES/codepic.jpg"></img>
       <H1>Math Apps. Build by David</H1>
+      <img class="PIC" src="IMAGES/codepic.jpg"></img>
+     
 </body>
 
 </html>
