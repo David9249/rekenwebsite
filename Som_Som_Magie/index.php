@@ -61,7 +61,7 @@
                         <!-- einde grid met 1 row en 2 col -->
                     </div>
                     <div class="card-footer text-body-secondary">
-                      &copy;2023 by OSD
+                     
                     </div>
                   </div>
             </div>

@@ -96,7 +96,7 @@
                         </div>
                     </div>
                     <div class="card-footer text-body-secondary">
-                        made by OSD
+                       
                     </div>
                 </div>
             </div>
