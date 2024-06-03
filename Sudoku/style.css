@@ -2,26 +2,26 @@ body{
   
     font-family: Avenir, Heveltica, sans-serif;
   }
-  li:nth-child(n):nth-child(-n+9) {
+  #sudoku li:nth-child(n):nth-child(-n+9) {
     border-top-width: 4px;
   }
-  li:nth-child(n+73):nth-child(-n+81) {
+  #sudoku li:nth-child(n+73):nth-child(-n+81) {
     border-bottom-width: 4px;
   }
-  li:nth-child(3n) {
+  #sudoku li:nth-child(3n) {
     border-right-width: 4px;
   }
-  li:nth-child(9n+1) {
+  #sudoku li:nth-child(9n+1) {
     border-left-width: 4px;
   }
-  li:nth-child(n+19):nth-child(-n+27) {
+  #sudoku li:nth-child(n+19):nth-child(-n+27) {
     border-bottom-width: 4px;
   }
-  li:nth-child(n+46):nth-child(-n+54) {
+  #sudoku li:nth-child(n+46):nth-child(-n+54) {
     border-bottom-width: 4px;
   }
   
-  ul {
+  #sudoku ul {
     display: grid;
     grid-template-columns: repeat(9, 5vw);
     grid-template-rows: repeat(9, 5vw);
@@ -33,7 +33,7 @@ body{
     padding: 0;
     font-size: calc(2vw + 10px);
   }
-  li {
+  #sudoku li {
     margin: 0;
     padding: 0;
     text-align: center;
@@ -45,11 +45,11 @@ body{
       margin-top: 0.4rem;
     }  
   }
-  li:hover{
+  #sudoku li:hover{
     background-color: rgb(148, 141, 141);
   }
   
-  .note {
+  #sudoku .note {
     background: #ddd;
     font-family: monospace;
     padding: 2em 5em;
@@ -57,8 +57,8 @@ body{
     order: -1;
   }
   @supports (display:grid) {
-    .note {display:none;}
+    #sudoku .note {display:none;}
   }
-  .form-control {
+  #sudoku .form-control {
     font-size: 52px;
   }
