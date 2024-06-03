@@ -20,7 +20,7 @@
 
       
       <img class="PIC" src="IMAGES/codepic.jpg"></img>
-      <H1>Math Apps</H1>
+      <H1>Math Apps. Build by David</H1>
 </body>
 
 </html>
