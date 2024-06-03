@@ -6,7 +6,7 @@
     <title>Eenheden omreken-oefenapp</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
   </head>
-  <body>
+  <body data-bs-theme="dark">
     <!-- hier komt mijn code -->
     <!-- eerst mijn grid opmaken -->
     <?php   
@@ -54,7 +54,7 @@
               <!-- einde van de twee knoppen -->
             </div>
             <div class="card-footer text-body-secondary">
-              &copy; 2023 made by OSD 
+              
             </div>
           </div>
         <!-- hier einde card -->
