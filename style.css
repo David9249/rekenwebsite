@@ -1,9 +1,11 @@
 .PIC{
-    size: 200px;
+  
     border-radius: 10px;
-margin-left: 130px;
+margin-left: 70px;
 
 margin-top: 70px;
 
+    width:50%;
+    height: 50%;
  
 }
